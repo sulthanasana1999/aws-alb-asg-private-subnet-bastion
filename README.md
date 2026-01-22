@@ -10,8 +10,7 @@ and administrative access is handled securely using a Bastion Host.
 
 ## Architecture
 ![Architecture Diagram]
-
-<img width="254" height="208" alt="image" src="https://github.com/user-attachments/assets/e53ce840-4ea5-4568-98ad-55fe0c75b2e4" />
+https://github.com/sulthanasana1999/aws-alb-asg-private-subnet-bastion/blob/main/architecture-diagram.png
 
 
 
